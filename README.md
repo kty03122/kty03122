@@ -1,4 +1,6 @@
 ### Hi there 👋
+### I'm tae yeon!
+### Glad to meet you guys!
 
 <!--
 **kty03122/kty03122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
